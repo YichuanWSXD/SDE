@@ -1,0 +1,12 @@
+name: John
+
+person:
+  name: ${name}
+  age: 20
+
+address:
+  - Nashville
+  - New York City
+
+msg1: 'hello \n world'
+msg2: "hello \n world"
